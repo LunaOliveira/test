@@ -1,0 +1,119 @@
+
+
+.Todo {
+  background-color: ghostwhite;
+  border-style: solid;
+  border-color: #363c4f;
+  border-width: 40px;
+
+}
+
+.splitimage {
+width: 200px;
+height: 250px;
+margin-top: 170px;
+margin-right: 22px;
+}
+
+.Todoexceptotodo {
+margin: 25px;
+}
+
+.Titleone {
+  font-size: 32px;
+  font-family: "Gill Sans", sans-serif;
+  color: #A63D40;
+  text-align: center;
+  margin-left: 240px;
+}
+
+.name {
+font-family: system-ui;
+font-size: 17px;
+color: #2D3A3A;
+text-align: center;
+  margin-left: 240px;
+}
+
+.TitleOneP {
+    font-family: system-ui;
+    color: #2D3A3A;
+  font-size: 16px;
+background-color: #E5E8F0;
+  border-radius: 10px;
+  margin-top: 85px;
+  margin-right: 270px;
+  text-justify: left;
+  }
+  
+.TitleTwo {
+text-align: center;
+background-color: #8c9654;
+border-radius: 30px;
+margin-left: 100px;
+margin-right: 100px;
+font-size: 25px;
+font-family: "Times";
+color: #202222;
+}
+
+
+.TitleTwoP {
+text-align: right;
+font-family: system-ui;
+color: #2D3A3A;
+  border-radius: 10px;
+background-color: #E5E8F0;
+
+margin-left: 150px;
+  font-size: 16px;
+}
+
+.TitleThree {
+background-color: #8c9654;
+border-radius: 30px;
+margin-left: 100px;
+margin-right: 100px;
+font-size: 25px;
+font-family: "Times";
+color: #202222;
+text-align: center;
+}
+
+  .TitleThreeP {
+    font-family: system-ui;
+    color: #2D3A3A;
+    font-size: 16px;
+  
+    border-radius: 10px;
+    background-color: #E5E8F0;
+    margin-right: 100px;
+    text-justify: left;
+}
+
+.TitleFour {
+text-align: center;
+background-color: #8c9654;
+border-radius: 30px;
+margin-left: 100px;
+margin-right: 100px;
+font-size: 25px;
+font-family: "Times";
+color: #202222;
+}
+  
+.TitleFourP {
+font-family: system-ui;
+    color: #2D3A3A;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: #E5E8F0;
+}
+
+.SuAyuda {
+font-size: 18px;  
+}
+
+
+
+}
